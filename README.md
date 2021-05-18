@@ -12,7 +12,7 @@ to
 
 **Important information**:
 
--   I want the short URL to be as small as technically possible. The university will send 5 emails per week, with 5 links in each email.
+-   We want the short URL to be as small as technically possible. The university will send 5 emails per week, with 5 links in each email.
 -   When I click the short link, it should redirect me to the long link.
 -   The short link should **always** link to the same long link.
 
