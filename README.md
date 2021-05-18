@@ -27,3 +27,7 @@ If you have never done backend work (or aren't as comfortable with it), create a
 We would recommend you don't spend more than a couple of hours on this project, and if you don't finish it, don't worry. We understand that 2 hours work is not going to produce a piece of art.
 
 In the interview we will ask you what you would have done differently if you had a day, or a week. Would you have done TDD? Would you address certain bottlenecks?
+
+If you get stuck, or have any questions feel free to email me: nathan.sainsbury@jisc.ac.uk.
+
+If you need inspiration, check out [TinyURL](https://tinyurl.com/app).
