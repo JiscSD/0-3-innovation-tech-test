@@ -4,7 +4,7 @@ Jisc provides services and supports the Further Education (FE) and Higher Educat
 
 University administrators send lots of emails. These emails often contain links that are huge (100+ characters). Since the links are so large, students are often put off by them and don't click them, this leads to them missing important content. What the university wants is a URL shortener that can turn a long link, into a short link. E.g
 
-> https://example.com/this-is-ann-example-of-a-really-long-link-that-may-look-bad/i-wish-i-could-shorten-this
+> https://example.com/this-is-an-example-of-a-really-long-link-that-may-look-bad/i-wish-i-could-shorten-this
 
 to
 
